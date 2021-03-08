@@ -36,7 +36,7 @@ sudo ./install.sh
 
 Script uses an Android ApkSignature to perform authentication in addition using TOR instances to avoid blocking. 
 The script uses Instagram-py algorithm (Python), see the project at: https://github.com/antony-jr/instagram-py
-Thanks to: @umeshshinde19 https://github.com/umeshshinde19
+Thanks to: @syed-roshan01 https://github.com/syed-roshan01
 
 ### Donate!
 Support the authors:
